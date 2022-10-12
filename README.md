@@ -1,6 +1,6 @@
 # Graph Project
 
-In this project
+In this project I am
 - drawing three given functions
 - denoting their intersection
 - determining the intersection points
